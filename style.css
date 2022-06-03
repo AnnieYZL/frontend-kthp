@@ -2,23 +2,23 @@ html, body {
     margin: 0; 
     padding: 0; 
     font-family: 'Helvetica', 'Arial';
-    /*background-color: #eeeeee;*/
+    background-color: #eeeeee;
 }
 
 #break{
     width: 100%; 
-    /*background: #eeeeee;*/
+    background: #eeeeee;
     height: 30px;
 }
 #break2{
-    width: 50%; 
-    /*background: #eeeeee;*/
+    width: 50%;
+    background: #eeeeee;
 }
 .normal-wrapper { 
     width: 85%;
     margin: 0 auto; 
     padding: 15px 40px; 
-    /*background: #eeeeee; */
+    background: #eeeeee;
     overflow: auto;
 }
 h1{
